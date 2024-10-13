@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\programming\cpp\dz3\dz3\main.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\programming\cpp\dz3\dz3\main.cpp(66,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\programming\cpp\dz3\dz3\main.cpp(67,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  dz3.vcxproj -> E:\programming\cpp\dz3\x64\Debug\dz3.exe
